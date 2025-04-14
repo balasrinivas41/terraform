@@ -1,0 +1,15 @@
+---
+- name: Install Java, Python, Apache
+  hosts: all
+  become: yes
+  tasks:
+    - name: Install packages
+      apt:
+        name: "{{ item }}"
+        update_cache: yes
+        state: present
+      loop:
+        - default-jdk
+        - python3
+        - apache2
+

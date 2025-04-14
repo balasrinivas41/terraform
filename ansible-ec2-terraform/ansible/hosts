@@ -1,0 +1,11 @@
+[clients]
+107.23.60.229 ansible_user=ubuntu ansible_ssh_private_key_file=~/ansible-key.pem
+54.164.158.55 ansible_user=ubuntu ansible_ssh_private_key_file=~/ansible-key.pem
+34.227.117.172 ansible_user=ubuntu ansible_ssh_private_key_file=~/ansible-key.pem
+44.203.89.167 ansible_user=ubuntu ansible_ssh_private_key_file=~/ansible-key.pem
+52.91.169.45 ansible_user=ubuntu ansible_ssh_private_key_file=~/ansible-key.pem
+44.206.0.128 ansible_user=ubuntu ansible_ssh_private_key_file=~/ansible-key.pem
+3.83.117.235 ansible_user=ubuntu ansible_ssh_private_key_file=~/ansible-key.pem
+3.82.216.40 ansible_user=ubuntu ansible_ssh_private_key_file=~/ansible-key.pem
+3.83.88.160 ansible_user=ubuntu ansible_ssh_private_key_file=~/ansible-key.pem
+
